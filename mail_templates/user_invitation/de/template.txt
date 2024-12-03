@@ -1,0 +1,5 @@
+Hallo,
+Sie wurden eingeladen, auf dieser Plattform mitzuarbeiten. Klicken Sie bitte hier {{invitationLink}}, um Ihre Einladung anzunehmen.
+
+Danke,
+Das Riconas-Team

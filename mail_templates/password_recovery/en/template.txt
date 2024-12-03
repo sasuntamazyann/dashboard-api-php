@@ -1,0 +1,5 @@
+Hello,
+We’ve received a request to change your password. If it was you, please confirm the password change {{resetPasswordLink}}.
+
+Thanks,
+The Riconas Team
